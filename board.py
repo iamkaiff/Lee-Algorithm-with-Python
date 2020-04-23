@@ -7,7 +7,7 @@ import random
 window = Tk()
 window.title("Kaif")
 
-size = 50
+size = 50          #initialize the number of blocks in the maze
 Walls = [(1, 2), (1, 7), (1, 8), (2, 7), (2, 8), (3, 7), (3, 8)]
 rows = size
 cols = size
